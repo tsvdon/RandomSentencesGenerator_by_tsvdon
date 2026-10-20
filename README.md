@@ -8,4 +8,4 @@ For example:
 
 <img width="1332" height="553" alt="image" src="https://github.com/user-attachments/assets/fd4d3647-a3a7-4a07-be22-e7c375332994" />
 
-The source code of the game is available [here](random_sentences_generator.py).
+The source code of the program is available [here](random_sentences_generator.py).
